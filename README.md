@@ -39,7 +39,7 @@
   <a href="https://discordapp.com/users/727641308604399748" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="66" height="50" alt="discord logo"  />
   </a>
-  <a href="lucasfigueiredovieira07@gmail.com" target="_blank">
+  <a href="mailto:lucasfigueiredovieira07@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="50" alt="gmail logo"  />
   </a>
 </div>

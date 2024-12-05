@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">- indie game developer<br>- A lover of Godot</p>
 
 ###
 

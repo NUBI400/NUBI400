@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- indie game developer<br>- A lover of Godot</p>
+<p align="center">- My name is Lucas F, and I’m a game developer, a game lover who is currently fully focused on his newest creation — now with a team. I’m also learning how SaaS works and how to build them from scratch.</p>
 
 ###
 

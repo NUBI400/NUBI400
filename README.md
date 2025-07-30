@@ -8,7 +8,7 @@
 <hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />
 
 <div align="center">
-  <img src="https://github.com/NUBI400/Rei-Ayanami-with-Toast/blob/main/PAPERLITTLEGIRL_COM.gif?raw=true" alt="running anime girl gif" height="250" />
+  <img src="https://github.com/NUBI400/Rei-Ayanami-with-Toast/blob/main/rei-ayanami-evangelion.gif?raw=true" alt="running anime girl gif" height="250" />
 </div>
 
 <hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />

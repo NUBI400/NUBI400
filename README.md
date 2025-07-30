@@ -5,11 +5,14 @@
   I’m also learning how SaaS works and how to build them from scratch.
 </p>
 
+<hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />
+
 <div align="center">
   <img src="https://github.com/NUBI400/Rei-Ayanami-with-Toast/blob/main/PAPERLITTLEGIRL_COM.gif?raw=true" alt="running anime girl gif" height="250" />
 </div>
 
 <hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />
+
 <h2 align="center">Techs</h2>
 
 <div align="center">

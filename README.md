@@ -1,9 +1,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  My name is Lucas F, and I’m a game developer, a game lover who is currently fully focused on his newest creation — now with a team. <br>
-  I’m also learning how SaaS works and how to build them from scratch.
-</p>
+Hi, my name is Lucas. I've been working with game development for 3 years, and lately I've been taking on freelance projects and developing personal ones. Besides making games, I've also been studying to become a full-stack web developer.</p>
 
 <hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />
 

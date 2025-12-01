@@ -11,9 +11,4 @@ Hi, my name is Lucas. I've been working with game development for 3 years, and l
 
 <hr style="border: none; border-top: 2px solid #444; margin: 40px auto; width: 60%;" />
 
-<h2 align="center">Techs</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NUBI400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NUBI400&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="140" alt="languages graph" />
-</div>
